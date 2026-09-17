@@ -1,0 +1,11 @@
+# stuff you dont need to commit
+
+# generated excel report and charts
+output/
+
+# python cache
+__pycache__/
+*.pyc
+
+# virtual env
+.venv/
